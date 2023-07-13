@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Frontend](https://www.bootstart.in/)
 
-- 🌱 I’m currently learning **Graphql,Gatsby,Mern Stack**
+- 🌱 I’m currently learning **Mern Stack**
 
 - 👯 I’m looking to collaborate on **Mern Stack**
 
