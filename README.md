@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Mern Stack**
 
-- 📫 How to reach me **sabhishek0708@gmail.com**
+- 📫 How to reach me **jollrakeshs.74@gmail.com**
 
 - ⚡ Fun fact **Addicted to web Applications**
 
